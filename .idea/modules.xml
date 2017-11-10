@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/hungryclient/hungryclient.iml" filepath="$PROJECT_DIR$/hungryclient/hungryclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/masakopp.iml" filepath="$PROJECT_DIR$/masakopp.iml" />
       <module fileurl="file://$PROJECT_DIR$/poorpoorserver/poorpoorserver.iml" filepath="$PROJECT_DIR$/poorpoorserver/poorpoorserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poorpoorserver/poorpoorserver.iml" filepath="$PROJECT_DIR$/poorpoorserver/poorpoorserver.iml" />
     </modules>
   </component>
 </project>

@@ -17,5 +17,10 @@ public class App
         Requester requester3 = new Requester("localhost:8080/heartbeat");
         requester3.start();
 
+        while(true){
+            Requester requester = new Requester("localhost:8080/heartbeat");
+            requester.start();
+        }
+
     }
 }
